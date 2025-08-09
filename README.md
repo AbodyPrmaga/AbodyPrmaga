@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Abdelrahman 👋
 
-<!--
-**AbodyPrmaga/AbodyPrmaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Python developer 🐍 specializing in building powerful scripts and automation tools.  
+Experienced in developing Telegram bots using Telebot, creating interactive apps with Flet, and crafting special custom programs.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- Python (Advanced)  
+- Telegram Bot Development with Telebot  
+- Flet Framework for desktop & web apps  
+- Custom Scripts & Automation Programs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I have created multiple Python projects including Telegram bots, automation scripts, and interactive applications.  
+Check out my repositories to explore my work.
+
+## Get in Touch
+- Telegram: [@AbodaDev](https://t.me/AbodaDev)  
+
+---
+⭐ If you like my work, please consider giving me a star!
